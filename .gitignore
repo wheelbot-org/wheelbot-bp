@@ -1,0 +1,7 @@
+# Backups
+*.FCBak
+
+
+# Git
+.gitignore
+!.gitignore
